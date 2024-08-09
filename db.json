@@ -1,0 +1,680 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Games",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Meus Jogos Preferidos",
+        "url": "https://steamcommunity.com/id/Dudu--/"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Animes",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Melhores Animes Pra Assistir",
+        "url": "https://myanimelist.net/profile/duduxs"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Filmes",
+      "cor": "#353839",
+      "link_extra": {
+        "text": "Minha Lista de Filmes de Terror",
+        "url": "https://incrivel.club/criatividade-arte/11-contos-aterrorizantes-de-edgar-allan-poe-698860/"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Séries",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Séries Que Eu Curto Bastante",
+        "url": "https://www.youtube.com/watch?v=oJhBh0scBOU"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Músicas",
+      "cor": "red",
+      "link_extra": {
+        "text": "Algumas Das Milhares De Músicas Que Escuto",
+        "url": "https://www.youtube.com/watch?v=lVaBvyzuypw"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Professores",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Os Melhores Professores de Tec Que Eu Já Tive Contato",
+        "url": "https://www.twitch.tv/marcobrunodev?utm_campaign=imersao_react_extra_plantao_de_duvidas&utm_medium=email&utm_source=RD%20Station"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "O que é o Crime Street?",
+      "description": "Crime Street é um jogo singleplayer de beat 'em up. Foi inspirado em grandes clássicos como o Battletoads, Final Fight e o DD. Sua missão como jogador é derrotar o maior criminoso do Rio de Janeiro: MURALHA, assim libertando toda a cidade do crime.",
+      "url": "https://www.youtube.com/watch?v=gJojSckSm-0&feature=emb_title"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Terraria",
+      "url": "https://www.youtube.com/watch?v=w7uOhFTrrq0"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Kung Fu Clicker",
+      "url": "https://www.youtube.com/watch?v=9n8ZvayFri0"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Dead By Daylight",
+      "url": "https://www.youtube.com/watch?v=JGhIXLO3ul8"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Skullgirls",
+      "url": "https://www.youtube.com/watch?v=jxLZEdDfR_g"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Paladins",
+      "url": "https://www.youtube.com/watch?v=dEwEC2MKgeQ"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Bit Heroes",
+      "url": "https://www.youtube.com/watch?v=VpWd1D-ttOw"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Habbo",
+      "url": "https://www.youtube.com/watch?v=bosfP5sFz3s"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Nichijou",
+      "url": "https://www.youtube.com/watch?v=qUk1ZoCGqsA"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Kono Subarashii Sekai ni Shukufuku wo!(KonoSuba)",
+      "url": "https://www.youtube.com/watch?v=7MOqq0WoUFY&t=1s"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Saiki Kusuo no Ψ-nan",
+      "url": "https://www.youtube.com/watch?v=CfvjcL8s_Lo"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Yakusoku no Neverland",
+      "url": "https://www.youtube.com/watch?v=828OYMaPlMA"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Sakamoto Desu ga?",
+      "url": "https://www.youtube.com/watch?v=rnCzQbPRLHY"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Hush A Morte Ouve",
+      "url": "https://www.youtube.com/watch?v=Q_P8WCbhC6s"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Histórias Assustadores Para Contar no Escuro",
+      "url": "https://www.youtube.com/watch?v=u-y3Z34YkiY"
+    },
+
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Nunca Diga Seu Nome",
+      "url": "https://www.youtube.com/watch?v=Ud4Zk2NZRQI"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Jogo Perigoso",
+      "url": "https://www.youtube.com/watch?v=8mZKeo0g_vE"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "Secuestro",
+      "url": "https://www.youtube.com/watch?v=HHC6NF0Sny0"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Vis a Vis",
+      "url": "https://www.youtube.com/watch?v=ceNKwOvSVm8"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Orange Is The New Black",
+      "url": "https://www.youtube.com/watch?v=vY0qzXi5oJg"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Rick and Morty",
+      "url": "https://www.youtube.com/watch?v=4E7uO4_S2rw"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Lucifer",
+      "url": "https://www.youtube.com/watch?v=X4bF_quwNtw"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "As I Lay Dying - Redefined",
+      "url": "https://www.youtube.com/watch?v=UnQUDQpnG3M"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Rhapsody - Reign of Terror",
+      "url": "https://www.youtube.com/watch?v=-0OfBtGwPHc"
+    },
+    {
+      "id": 27,
+      "categoriaId": 6,
+      "titulo": "Esse aqui eu considero o melhor de todos, didática incrível para todos os níveis.",
+      "url": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+    },
+    {
+      "id": 28,
+      "categoriaId": 6,
+      "titulo": "Se você pretende atuar no back-end, esse professor é indispensável.",
+      "url": "https://www.youtube.com/watch?v=8aYQjDboNbw&t=1s"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "Ele tem um ensino um pouco mais detalhado, então você precisa ter bastante paciência nas aulas. Um professor incrível.",
+      "url": "https://www.youtube.com/watch?v=gOMDx__fJb4"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "Para quem for entrar na área de jogos este é o Guilherme é o prof indicado.",
+      "url": "https://www.youtube.com/watch?v=7V__cZdgnjU"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "Professor ligado no 440V, porém muito bom para quem quer ingressar em uma tecnologia de forma rápida e sem dar muitas voltas.",
+      "url": "https://www.youtube.com/watch?v=XcU9GEUZTQA&t=11s"
+    },
+    {
+      "titulo": "Dungeon Inc",
+      "url": "https://www.youtube.com/watch?v=yO4kmFv-Hlo",
+      "categoriaId": 1,
+      "id": 32
+    },
+    {
+      "titulo": "Brawl Stars",
+      "url": "https://www.youtube.com/watch?v=CaryjOdYFa0",
+      "categoriaId": 1,
+      "id": 33
+    },
+    {
+      "titulo": "Transformice",
+      "url": "https://www.youtube.com/watch?v=tQyQ9RRxD_w",
+      "categoriaId": 1,
+      "id": 34
+    },
+    {
+      "titulo": "Elsword",
+      "url": "https://www.youtube.com/watch?v=VPi9OBdaoow",
+      "categoriaId": 1,
+      "id": 35
+    },
+    {
+      "titulo": "Grand Chase",
+      "url": "https://www.youtube.com/watch?v=2s6nlk2bU4U",
+      "categoriaId": 1,
+      "id": 36
+    },
+    {
+      "titulo": "Warface",
+      "url": "https://www.youtube.com/watch?v=b_56BNBQ6lw",
+      "categoriaId": 1,
+      "id": 37
+    },
+    {
+      "titulo": "Point Blank",
+      "url": "https://www.youtube.com/watch?v=9jomgIdJb7c",
+      "categoriaId": 1,
+      "id": 38
+    },
+    {
+      "titulo": "Brawlhalla",
+      "url": "https://www.youtube.com/watch?v=fnd71bqiiW0",
+      "categoriaId": 1,
+      "id": 39
+    },
+    {
+      "titulo": "Sherwood Dungeon",
+      "url": "https://www.youtube.com/watch?v=9CUa1f6189M",
+      "categoriaId": 1,
+      "id": 40
+    },
+    {
+      "titulo": "Club Penguin",
+      "url": "https://www.youtube.com/watch?v=qZBDUGxMjMY",
+      "categoriaId": 1,
+      "id": 41
+    },
+    {
+      "titulo": "Maid Marian",
+      "url": "https://www.youtube.com/watch?v=HvxS6PiX3RY",
+      "categoriaId": 1,
+      "id": 42
+    },
+    {
+      "titulo": "Mario's Saga",
+      "url": "https://www.youtube.com/watch?v=QsAKvbOs2lE",
+      "categoriaId": 1,
+      "id": 43
+    },
+    {
+      "titulo": "Deca-Dence",
+      "url": "https://www.youtube.com/watch?v=EX1oWcKU64U",
+      "categoriaId": 2,
+      "id": 44
+    },
+    {
+      "titulo": "Goblin Slayer",
+      "url": "https://www.youtube.com/watch?v=SYjnCoI03wA",
+      "categoriaId": 2,
+      "id": 45
+    },
+    {
+      "titulo": "My Hero Academia",
+      "url": "https://www.youtube.com/watch?v=pd6i3Kv2yIs",
+      "categoriaId": 2,
+      "id": 46
+    },
+    {
+      "titulo": "Demon Slayer",
+      "url": "https://www.youtube.com/watch?v=YAYMkH_JEo8",
+      "categoriaId": 2,
+      "id": 47
+    },
+    {
+      "titulo": "Fire Force",
+      "url": "https://www.youtube.com/watch?v=fzM43HZ6oeg",
+      "categoriaId": 2,
+      "id": 48
+    },
+    {
+      "titulo": "The God of High School",
+      "url": "https://www.youtube.com/watch?v=8i3Xvs4R0WY",
+      "categoriaId": 2,
+      "id": 49
+    },
+    {
+      "titulo": "Baki",
+      "url": "https://www.youtube.com/watch?v=uUA-vUUXHN8",
+      "categoriaId": 2,
+      "id": 50
+    },
+    {
+      "titulo": "One Piece ",
+      "url": "https://www.youtube.com/watch?v=r6MINq3BM2s",
+      "categoriaId": 2,
+      "id": 51
+    },
+    {
+      "titulo": "One Punch Man",
+      "url": "https://www.youtube.com/watch?v=78ngg0SRlEI",
+      "categoriaId": 2,
+      "id": 52
+    },
+    {
+      "titulo": "Nanatsu no Taizai",
+      "url": "https://www.youtube.com/watch?v=AMVoGte6SOc",
+      "categoriaId": 2,
+      "id": 53
+    },
+    {
+      "titulo": "Dr. Stone",
+      "url": "https://www.youtube.com/watch?v=q8cCV16ixSA&list=PLd9Ir7rUMmV9sKfMRWUIkIAwwLwlOAbFu&index=33",
+      "categoriaId": 2,
+      "id": 54
+    },
+    {
+      "titulo": "Haikyuu!!",
+      "url": "https://www.youtube.com/watch?v=XOAnJkU-WZ0&list=PLd9Ir7rUMmV9sKfMRWUIkIAwwLwlOAbFu&index=36",
+      "categoriaId": 2,
+      "id": 55
+    },
+    {
+      "titulo": "Gintama",
+      "url": "https://www.youtube.com/watch?v=4uCyhw2cEVM&list=PLd9Ir7rUMmV9sKfMRWUIkIAwwLwlOAbFu&index=57",
+      "categoriaId": 2,
+      "id": 56
+    },
+    {
+      "titulo": "Bleach",
+      "url": "https://www.youtube.com/watch?v=Q3W2EooLhis",
+      "categoriaId": 2,
+      "id": 57
+    },
+    {
+      "titulo": "Dorohedoro",
+      "url": "https://www.youtube.com/watch?v=ry-jzv18fOY",
+      "categoriaId": 2,
+      "id": 58
+    },
+    {
+      "titulo": "Keep Your Hands Off Eizouken!",
+      "url": "https://www.youtube.com/watch?v=acYbdQImkp4",
+      "categoriaId": 2,
+      "id": 59
+    },
+    {
+      "titulo": "Inatividade Paranormal",
+      "url": "https://www.youtube.com/watch?v=DmAl0xfeWFk",
+      "categoriaId": 3,
+      "id": 60
+    },
+    {
+      "titulo": "Anabelle",
+      "url": "https://www.youtube.com/watch?v=kHl6aU30pIo",
+      "categoriaId": 3,
+      "id": 61
+    },
+    {
+      "titulo": "IT",
+      "url": "https://www.youtube.com/watch?v=PLZHjEYrJg4",
+      "categoriaId": 3,
+      "id": 62
+    },
+    {
+      "titulo": "Silent Hill",
+      "url": "https://www.youtube.com/watch?v=9b4iOhWswYM",
+      "categoriaId": 3,
+      "id": 63
+    },
+    {
+      "titulo": "Happy Death Day",
+      "url": "https://www.youtube.com/watch?v=1NTaDm3atkc",
+      "categoriaId": 3,
+      "id": 64
+    },
+    {
+      "titulo": "Jogos Mortais",
+      "url": "https://www.youtube.com/watch?v=ogkm9co9IM4",
+      "categoriaId": 3,
+      "id": 65
+    },
+    {
+      "titulo": "O massacre da Serra Elétrica",
+      "url": "https://www.youtube.com/watch?v=WGQomhngrEs",
+      "categoriaId": 3,
+      "id": 66
+    },
+    {
+      "titulo": "The Exorcism Of Emily Rose",
+      "url": "https://www.youtube.com/watch?v=Bi-PLwxwvy8",
+      "categoriaId": 3,
+      "id": 67
+    },
+    {
+      "titulo": "Vende-se esta casa",
+      "url": "https://www.youtube.com/watch?v=Jof8uXcdOTk",
+      "categoriaId": 3,
+      "id": 68
+    },
+    {
+      "titulo": "Bruxa de Blair",
+      "url": "https://www.youtube.com/watch?v=RoP41i5VEG8",
+      "categoriaId": 3,
+      "id": 69
+    },
+    {
+      "titulo": "Anaconda",
+      "url": "https://www.youtube.com/watch?v=Xaq710J7EVg",
+      "categoriaId": 3,
+      "id": 70
+    },
+    {
+      "titulo": "Amizade Desfeita",
+      "url": "https://www.youtube.com/watch?v=Ry9LgMZQVqA",
+      "categoriaId": 3,
+      "id": 71
+    },
+    {
+      "titulo": "Amnésia",
+      "url": "https://www.youtube.com/watch?v=A7y6yKruHdQ",
+      "categoriaId": 3,
+      "id": 72
+    },
+    {
+      "titulo": "Boneca Maldita",
+      "url": "https://www.youtube.com/watch?v=ZyGVvAs3FUA",
+      "categoriaId": 3,
+      "id": 73
+    },
+    {
+      "titulo": "Ouija: Origem do Mal",
+      "url": "https://www.youtube.com/watch?v=EqO-Az95qRo",
+      "categoriaId": 3,
+      "id": 74
+    },
+    {
+      "titulo": "La Casa de Papel",
+      "url": "https://www.youtube.com/watch?v=ZpBrBop30m4",
+      "categoriaId": 4,
+      "id": 75
+    },
+    {
+      "titulo": "(Des)encanto",
+      "url": "https://www.youtube.com/watch?v=aTtinse4RWQ",
+      "categoriaId": 4,
+      "id": 76
+    },
+    {
+      "titulo": "Um maluco no pedaço",
+      "url": "https://www.youtube.com/watch?v=x-7pS2MhrGw",
+      "categoriaId": 4,
+      "id": 77
+    },
+    {
+      "titulo": "Todo Mundo Odeia o Chris",
+      "url": "https://www.youtube.com/watch?v=6N02ODfEPwc",
+      "categoriaId": 4,
+      "id": 78
+    },
+    {
+      "titulo": "Demolidor",
+      "url": "https://www.youtube.com/watch?v=y3GkQ6yoAA4",
+      "categoriaId": 4,
+      "id": 79
+    },
+    {
+      "titulo": "Jessica Jones",
+      "url": "https://www.youtube.com/watch?v=nWHUjuJ8zxE",
+      "categoriaId": 4,
+      "id": 80
+    },
+    {
+      "titulo": "The Defenders",
+      "url": "https://www.youtube.com/watch?v=MDfuDaUdw-Y",
+      "categoriaId": 4,
+      "id": 81
+    },
+    {
+      "titulo": "Punho de Ferro",
+      "url": "https://www.youtube.com/watch?v=03W2ffgkYDM",
+      "categoriaId": 4,
+      "id": 82
+    },
+    {
+      "titulo": "Luke Cage",
+      "url": "https://www.youtube.com/watch?v=anCj1kd-MXM",
+      "categoriaId": 4,
+      "id": 83
+    },
+    {
+      "titulo": "Big Mouth",
+      "url": "https://www.youtube.com/watch?v=70CN9XeDnf0",
+      "categoriaId": 4,
+      "id": 84
+    },
+    {
+      "titulo": "Flash",
+      "url": "https://www.youtube.com/watch?v=fZqki9hSQbI",
+      "categoriaId": 4,
+      "id": 85
+    },
+    {
+      "titulo": "Stranger Things",
+      "url": "https://www.youtube.com/watch?v=mnd7sFt5c3A",
+      "categoriaId": 4,
+      "id": 86
+    },
+    {
+      "titulo": "Black Mirror",
+      "url": "https://www.youtube.com/watch?v=jDiYGjp5iFg",
+      "categoriaId": 4,
+      "id": 87
+    },
+    {
+      "titulo": "Skrillex - First Of The Year",
+      "url": "https://www.youtube.com/watch?v=2cXDgFwE13g",
+      "categoriaId": 5,
+      "id": 88
+    },
+    {
+      "titulo": "Skrillex - Make it Bun Den",
+      "url": "https://www.youtube.com/watch?v=BGpzGu9Yp6Y",
+      "categoriaId": 5,
+      "id": 89
+    },
+    {
+      "titulo": "Skrillex - Bangarang",
+      "url": "https://www.youtube.com/watch?v=YJVmu6yttiw",
+      "categoriaId": 5,
+      "id": 90
+    },
+    {
+      "titulo": "Skrillex - Rock n Roll",
+      "url": "https://www.youtube.com/watch?v=eOofWzI3flA",
+      "categoriaId": 5,
+      "id": 91
+    },
+    {
+      "titulo": "Daft Punk - Harder Better Faster",
+      "url": "https://www.youtube.com/watch?v=gAjR4_CbPpQ",
+      "categoriaId": 5,
+      "id": 92
+    },
+    {
+      "titulo": "Gorillaz - PAC-MAN",
+      "url": "https://www.youtube.com/watch?v=G-7U-FDql1A",
+      "categoriaId": 5,
+      "id": 93
+    },
+    {
+      "titulo": "Gorillaz - Saturnz Barz",
+      "url": "https://www.youtube.com/watch?v=5qJp6xlKEug",
+      "categoriaId": 5,
+      "id": 94
+    },
+    {
+      "titulo": "Gorillaz - On Melancholy Hill",
+      "url": "https://www.youtube.com/watch?v=04mfKJWDSzI",
+      "categoriaId": 5,
+      "id": 95
+    },
+    {
+      "titulo": "Gorillaz - Dirty Harry",
+      "url": "https://www.youtube.com/watch?v=cLnkQAeMbIM",
+      "categoriaId": 5,
+      "id": 96
+    },
+    {
+      "titulo": "Gorillaz 19-2000",
+      "url": "https://www.youtube.com/watch?v=WXR-bCF5dbM",
+      "categoriaId": 5,
+      "id": 97
+    },
+    {
+      "titulo": "Gorillaz - Tranz",
+      "url": "https://www.youtube.com/watch?v=E2Q52cVx7Bo",
+      "categoriaId": 5,
+      "id": 98
+    },
+    {
+      "titulo": "Gorillaz - DARE",
+      "url": "https://www.youtube.com/watch?v=uAOR6ib95kQ",
+      "categoriaId": 5,
+      "id": 99
+    },
+    {
+      "titulo": "Gorillaz - Clint Eastwood",
+      "url": "https://www.youtube.com/watch?v=1V_xRb0x9aw",
+      "categoriaId": 5,
+      "id": 100
+    },
+    {
+      "titulo": "Gorillaz - Feel Good Inc.",
+      "url": "https://www.youtube.com/watch?v=HyHNuVaZJ-k",
+      "categoriaId": 5,
+      "id": 101
+    },
+    {
+      "titulo": "Gorillaz - Humility",
+      "url": "https://www.youtube.com/watch?v=E5yFcdPAGv0",
+      "categoriaId": 5,
+      "id": 102
+    },
+    {
+      "titulo": "Gorillaz - Rock The House",
+      "url": "https://www.youtube.com/watch?v=lRlmM88zzbY",
+      "categoriaId": 5,
+      "id": 103
+    },
+    {
+      "titulo": "Gorillaz - Andromeda",
+      "url": "https://www.youtube.com/watch?v=9W44NWYwa1g",
+      "categoriaId": 5,
+      "id": 104
+    },
+    {
+      "titulo": "LMFAO Party Rock Anthem",
+      "url": "https://www.youtube.com/watch?v=KQ6zr6kCPj8",
+      "categoriaId": 5,
+      "id": 105
+    }
+  ]
+}

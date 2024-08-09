@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "Games",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Meus Jogos Preferidos",
+        "url": "https://steamcommunity.com/id/Dudu--/"
+      },
+      "videos": [
+        {
+          "titulo": "O que é o Crime Steet?",
+          "url": "https://www.youtube.com/watch?v=gJojSckSm-0&feature=emb_title"
+        },
+        {
+          "titulo": "Terraria",
+          "url": "https://www.youtube.com/watch?v=w7uOhFTrrq0"
+        },
+        {
+          "titulo": "Kung Fu Clicker",
+          "url": "https://www.youtube.com/watch?v=9n8ZvayFri0"
+        },
+        {
+          "titulo": "Dead By Daylight",
+          "url": "https://www.youtube.com/watch?v=JGhIXLO3ul8"
+        },
+        {
+          "titulo": "Skullgirls",
+          "url": "https://www.youtube.com/watch?v=jxLZEdDfR_g"
+        },
+        {
+          "titulo": "Paladins",
+          "url": "https://www.youtube.com/watch?v=dEwEC2MKgeQ"
+        },
+        {
+          "titulo": "Bit Heroes",
+          "url": "https://www.youtube.com/watch?v=VpWd1D-ttOw"
+        },
+        {
+          "titulo": "Habbo",
+          "url": "https://www.youtube.com/watch?v=bosfP5sFz3s"
+        }        
+      ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Melhores Animes Pra Assistir",
+        "url": "https://myanimelist.net/profile/duduxs"
+      },
+      "videos": [
+        {
+          "titulo": "Nichijou",
+          "url": "https://www.youtube.com/watch?v=53ejT195VVc"
+        },
+        {
+          "titulo": "Kono Subarashii Sekai ni Shukufuku wo!(KonoSuba)",
+          "url": "https://www.youtube.com/watch?v=N1AO7k2o78g"
+        },
+        {
+          "titulo": "Saiki Kusuo no Ψ-nan",
+          "url": "https://www.youtube.com/watch?v=YxmqcJpXVvY"
+        },
+        {
+          "titulo": "Yakusoku no Neverland",
+          "url": "https://www.youtube.com/watch?v=ApLudqucq-s"
+        }, 
+        {
+          "titulo": "Sakamoto Desu ga?",
+          "url": "https://www.youtube.com/watch?v=r-hePnrS0-Q"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#353839",
+      "link_extra": {
+        "text": "Minha Lista de Filmes de Terror",
+        "url": "https://incrivel.club/criatividade-arte/11-contos-aterrorizantes-de-edgar-allan-poe-698860/"
+      },
+      "videos": [
+        {
+          "titulo": "Hush A Morte Ouve",
+          "url": "https://www.youtube.com/watch?v=Q_P8WCbhC6s"
+        },
+        {
+          "titulo": "Nunca Diga Seu Nome",
+          "url": "https://www.youtube.com/watch?v=Ud4Zk2NZRQI"
+        },
+        {
+          "titulo": "Jogo Perigoso",
+          "url": "https://www.youtube.com/watch?v=8mZKeo0g_vE"
+        },
+        {
+          "titulo": "Secuestro",
+          "url": "https://www.youtube.com/watch?v=HHC6NF0Sny0"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Séries Que Eu Curto Bastante",
+        "url": "https://www.youtube.com/watch?v=oJhBh0scBOU"
+      },
+      "videos": [
+        {
+          "titulo": "Vis a Vis",
+          "url": "https://www.youtube.com/watch?v=ceNKwOvSVm8"
+        },
+        {
+          "titulo": "Orange Is The New Black",
+          "url": "https://www.youtube.com/watch?v=vY0qzXi5oJg"
+        },
+        {
+          "titulo": "Rick and Morty",
+          "url": "https://www.youtube.com/watch?v=4E7uO4_S2rw"
+        },
+        {
+          "titulo": "Lucifer",
+          "url": "https://www.youtube.com/watch?v=X4bF_quwNtw"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "red",
+      "link_extra": {
+        "text": "Algumas Das Milhares De Músicas Que Escuto",
+        "url": "https://www.youtube.com/watch?v=lVaBvyzuypw"
+      },
+      "videos": [
+        {
+          "titulo": "As I Lay Dying - Redefined",
+          "url": "https://www.youtube.com/watch?v=UnQUDQpnG3M"
+        },
+        {
+          "titulo": "Rhapsody - Emerald Sword",
+          "url": "https://www.youtube.com/watch?v=y5kLxQGbRYg"
+        },
+        {
+          "titulo": "Rhapsody - Reign of Terror",
+          "url": "https://www.youtube.com/watch?v=-0OfBtGwPHc"
+        },
+        {
+          "titulo": "Rhapsody - Dawn of Victory",
+          "url": "https://www.youtube.com/watch?v=0L_iOnLNt9M"
+      
+        },
+        {
+          "titulo": "8 Bit Remixes",
+          "url": "https://www.youtube.com/watch?v=IbFEEfNE1YQ&list=PL89Sygaj3zlF_aS6Eo7YwfnqGHsVpXxDy"
+        }
+      ]
+    },
+    {
+      "titulo": "Professores",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Os Melhores Professores de Tec Que Eu Já Tive Contato",
+        "url": "https://www.twitch.tv/marcobrunodev?utm_campaign=imersao_react_extra_plantao_de_duvidas&utm_medium=email&utm_source=RD%20Station"
+      },
+      "videos": [
+        {
+          "titulo": "Esse aqui eu considero o melhor de todos, didática incrível para todos os níveis.",
+          "url": "https://www.youtube.com/watch?v=S9uPNppGsGo"
+        },
+        {
+          "titulo": "Se você pretende atuar no back-end, esse professor é indispensável.",
+          "url": "https://www.youtube.com/watch?v=8aYQjDboNbw&t=1s"
+        },
+        {
+          "titulo": "Ele tem um ensino um pouco mais detalhado, então você precisa ter bastante paciência nas aulas. Um professor incrível.",
+          "url": "https://www.youtube.com/watch?v=gOMDx__fJb4"
+        },
+        {
+          "titulo": "Para quem for entrar na área de jogos este é o Guilherme é o prof indicado.",
+          "url": "https://www.youtube.com/watch?v=7V__cZdgnjU"
+        },
+        {
+          "titulo": "Professor ligado no 440V, porém muito bom para quem quer ingressar em uma tecnologia de forma rápida e sem dar muitas voltas.",
+          "url": "https://www.youtube.com/watch?v=XcU9GEUZTQA&t=11s"
+        }
+      ]
+    }
+  ]
+}
